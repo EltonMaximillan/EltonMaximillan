@@ -39,6 +39,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/EltonMaximillan/EltonMaximillan/main/snake.svg"Snake animation" />
+<img src="https://raw.githubusercontent.com/EltonMaximillan/EltonMaximillan/main/snake.svg" />
 
 ###
